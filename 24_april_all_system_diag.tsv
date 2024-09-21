@@ -1,0 +1,40 @@
+date	error code	message
+04-05-24	25,25,11,c3	Please Refer To Manual
+04-05-24	P2009-128	Water level sensor - water in fuel filter
+04-05-24	25,22,08,76	Please Refer To Manual
+04-05-24	25,21,33,4d	Please Refer To Manual
+04-05-24	25,21,35,4d	Please Refer To Manual
+04-05-24	25,21,36,4d	Please Refer To Manual
+04-05-24	P0105-004	Boost pressure sensor - the supply voltage is too high or low
+04-05-24	2032-002	A signal from component R25 (Oxygen Sensor) is faulty. The O2 sensor signal is implausible.
+04-05-24	2028-004	A signal from component R25 (Oxygen Sensor) is fault. Open Circuit.
+04-05-24	P0190-001	Rail pressure sensor - the signal voltage is too low.
+04-05-24	25,23,06,4c	Please Refer To Manual
+04-05-24	25,25,14,50	Please Refer To Manual
+04-05-24	25,21,32,4f	Please Refer To Manual
+04-05-24	2511-001	Component Y85 (Exhaust Gas Recirculation Positioner) is faulty. Short circuit to ground.
+04-05-24	2f,20,09,04	Please Refer To Manual
+04-05-24	2208-001	CAN Bus: brake signal . Plausability.
+04-05-24	2133-001	Component R17 (Glow Plug) is faulty. Short circuit to positive or open circuit.
+04-05-24	2135-001	Component R16 (Glow Plug) is faulty. Short circuit to positive or open circuit.
+04-05-24	2136-001	Component R15 (Glow Plug) is faulty. Short circuit to positive or open circuit.
+04-05-24	0105-002	The signal from component B141 (Boost Pressure Sensor) is faulty. The signal voltage is too low.
+04-05-24	0190-001	The signal from component B113 (Rail Pressure Sensor) is faulty. Short circuit to positive or open circuit.
+04-05-24	2306-002	Sensor supply 2. Voltage is too low.
+04-05-24	2514-004	Component R41 (Crankcase Ventilation Heater) is faulty. Open circuit
+04-05-24	2132-001	Preglowing failed. Short circuit to positive or open circuit
+04-05-24	B1040-000	The CAN communication of the engine controle module is faulty.
+04-05-24	B1041-000	CAN communication with the brake system module is faulty.
+04-05-24	B1042-000	CAN communication with transmission control unit faulty.
+04-05-24	B1470-002	Fuel level sensor has short circuit to ground.
+04-05-24	27,90,10,ff	Please Refer To Manual
+04-05-24	B1781-004	Interface to 'Central Locking' control module has short circuit to ground or discontinuity.
+04-05-24	P2311	No CAN message from engine control module or message faulty.
+04-05-24	P2312	CAN fault - the engine temperature from the engine control module is implausible.
+04-05-24	P2404	CAN fault - the signal of the stop light switch is implausible.
+04-05-24	00,4f,25,63	Please Refer To Manual
+04-05-24	51BC	Steering angle sensor: values are implausible.
+04-05-24	550B	The CAN communication of the engine control module is faulty.
+04-05-24	5159	Stop lamp switch, short circuit to positive, incorrect adjustment.
+04-05-24	5197	Pressure Sensor
+04-05-24	22,17,11,00	Please Refer To Manual
