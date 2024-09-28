@@ -1,0 +1,22 @@
+spray tranny drain plug with penetrating fluid
+
+stop lamp switch
+	 check resistance (30 ohms?)
+	 unplug and check resistance again?
+	 verify w/ or w/o esp
+	 other ways to rule out?
+
+find resistance guide
+	 check ecm, tcm, cab, etc?
+	 check resistance to water-in-fuel-filter
+
+wishlist
+	fix water-in-fuel-filter wires? sensor?
+	new intercooler hosing
+	intake air temp sensor
+	block heater
+	service coolant fluid
+	service brake fluid
+
+create service log
+
